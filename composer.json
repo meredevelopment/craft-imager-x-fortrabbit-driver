@@ -23,7 +23,7 @@
   ],
   "require": {
     "craftcms/cms": "^3.0.0",
-    "spacecatninja/imager-x": "^v3.4.0",
+    "spacecatninja/imager-x": "^3.4.0",
     "aws/aws-sdk-php": "^3.0.0"
   },
   "autoload": {
